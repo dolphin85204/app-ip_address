@@ -18,5 +18,6 @@
   "homepage": "https://github.com/dolphin85204/app-ip_address#readme",
   "dependencies": {
     "ip-cidr": "^2.0.6"
-  }
+  },
+  "devDependencies": {}
 }
